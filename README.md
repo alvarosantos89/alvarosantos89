@@ -13,5 +13,7 @@
   <img align="center" alt="Alvaro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alvaro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Javali-pic" height="80" style="border-radius:50px;" src="https://github.com/alvarosantos89/alvarosantos89/blob/main/Javali_walk_right.gif">
+  <img align="center" alt="Sandoval-pic" height="150" style="border-radius:50px;" src="https://github.com/alvarosantos89/alvarosantos89/blob/main/Sandoval_atual_right_run_funny.gif">
+</div>
