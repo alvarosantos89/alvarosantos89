@@ -1,5 +1,6 @@
 ### Bem vindo ao meu Perfil! ✌🏼😁✌🏼
 - 🔭 Aualmente trabalho como Assistente de T.I.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Java, C#, Unity e o que o chefe mandar
 - 🎮 Criador do jogo Vera Cruz (download pelo meu perfil)
 
