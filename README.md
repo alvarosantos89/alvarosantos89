@@ -15,6 +15,6 @@
   <img align="center" alt="Alvaro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="botton" alt="Javali-pic" height="90" style="border-radius:30px;" src="https://github.com/alvarosantos89/alvarosantos89/blob/main/Javali_walk_right.gif">
+  <img align="botton" alt="Javali-pic" height="100" style="border-radius:30px;" src="https://github.com/alvarosantos89/alvarosantos89/blob/main/Javali_walk_right.gif">
   <img align="botton" alt="Sandoval-pic" height="150" style="border-radius:50px;" src="https://github.com/alvarosantos89/alvarosantos89/blob/main/Sandoval_atual_right_run_funny.gif">
 </div>
