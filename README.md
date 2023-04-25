@@ -2,7 +2,7 @@
 - 🔭 Aualmente trabalho como Assistente de T.I.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Java, C#, Unity e o que o chefe mandar
-- 🎮 Criador do jogo Vera Cruz (download pelo meu perfil)
+- 🎮 Criador do jogo Vera Cruz! Baixe na Play Store: https://play.google.com/store/apps/details?id=com.AlvaroAlvesdosSantos.VeraCruz
 
 <div align="center">
   <a href="https://github.com/alvarosantos89">
