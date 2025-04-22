@@ -1,7 +1,7 @@
 ### Bem vindo ao meu Perfil! ✌🏼😁✌🏼
-- 🔭 Aualmente trabalho como Assistente de T.I.
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java, C#, Unity, Flutter e o que o chefe mandar
+- 🔭 Aualmente trabalho como desenvolvedor Full Stack.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🌱 Typescript, Java, C#, Unity, Flutter e o que o chefe mandar
 - 🎮 Criador do jogo Vera Cruz! Baixe na Play Store: https://play.google.com/store/apps/details?id=com.AlvaroAlvesdosSantos.VeraCruz
 
 <div align="center">
